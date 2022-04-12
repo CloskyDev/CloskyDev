@@ -39,7 +39,6 @@
 
 | ![CloskyDev's github stats](https://github-readme-stats.vercel.app/api?CloskyDev&show_icons=true&theme=tokyonight) | ![CloskyDev GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CloskyDev&theme=tokyonight) |
 | --- | --- |
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=CloskyDev&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 
 <br>
