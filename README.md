@@ -37,10 +37,6 @@
   
 [![CloskyDev's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=CloskyDev&theme=tokyonight)](https://git.io/praveenscience)
 
-| ![CloskyDev's github stats](https://github-readme-stats.vercel.app/api?CloskyDev&show_icons=true&theme=tokyonight) | ![CloskyDev GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CloskyDev&theme=tokyonight) |
-| --- | --- |
-
-
 <br>
 
 
